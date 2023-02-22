@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* top header with title and sections*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,7 +40,7 @@ body {
 
 .header div ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-right: 25px;
 }
 
 a {
@@ -46,10 +48,12 @@ a {
     text-decoration: none;
 }
 
+/* paragraph font size*/
 p {
     font-size: 16px;
 }
 
+/*what each body box text and image looks like*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/*what the side bar looks like*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/*what the footer looks like*/
 .footer {
     padding: 30px;
     clear: both;
