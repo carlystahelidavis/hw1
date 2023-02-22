@@ -38,6 +38,7 @@ body {
     list-style-type: none;
 }
 
+/*header*/
 .header div ul li {
     display: inline-block;
     margin-right: 25px;
