@@ -36,12 +36,12 @@ nav {
     font-size: 20px;
 }
 
-header div ul {
+header nav ul {
     list-style-type: none;
 }
 
 /*header navigation bar*/
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-right: 25px;
 }
@@ -57,7 +57,7 @@ p {
 }
 
 /*what each body box text and image looks like*/
-.background image {
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -76,14 +76,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /*what the side bar looks like*/
-.sidebar {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -165,13 +165,13 @@ p {
 }
 
 /*what the footer looks like*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
